@@ -3,10 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>OnlineBookStore</groupId>
   <artifactId>OnlineBookStore</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>OnlineBookStore Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+	<maven.compiler.source>16</maven.compiler.source>
+	<maven.compiler.target>16</maven.compiler.target>
+  </properties>
   <dependencies>
 
 

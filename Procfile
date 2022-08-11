@@ -1,0 +1,1 @@
+web: jar target/OnlinBookStore.jar /OnlineBookStore/src/main/webapp/WEB-INF/web.xml
